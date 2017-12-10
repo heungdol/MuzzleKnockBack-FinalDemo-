@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8597fafa013bcb3448bd2d624259c21b
+timeCreated: 1511638861
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shadowSprite0: {fileID: 21300000, guid: f26211435aacb3c4d900b86d0faba9cf, type: 3}
+  - shadowSprite1: {fileID: 21300000, guid: b1a77d88928cb504bbfd696426f8af41, type: 3}
+  - shadowSprite2: {fileID: 21300000, guid: 90edd5cad43bfae4698691b7732f06d2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
